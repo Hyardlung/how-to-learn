@@ -65,7 +65,6 @@
   position: absolute;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -150,7 +149,7 @@
 }
 
 .section-title {
-  margin: 0;
+  margin: 0 auto;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -158,7 +157,12 @@
   text-align: center;
 }
 
+.section-title_margins {
+  margin-bottom: 20;
+}
+
 .section-subtitle {
+  margin: 0 auto;
   width: 60%;
   line-height: 34px;
   font-size: 24px;
@@ -171,6 +175,10 @@
   justify-content: space-between;
   flex-wrap: wrap;
   width: 1100px;
+}
+
+.table_place {
+  z-index: 1;
 }
 
 .table__cell {
@@ -202,7 +210,7 @@
   font-weight: 400;
 }
 
-.table__text_place_digits {
+.table__text_margins {
   margin-top: 20px;
 }
 
@@ -228,7 +236,7 @@
   z-index: 1;
 }
 
-.feinman__title_place_feinman{
+.feinman__title_place_feinman {
   margin: 100px 0 70px 0;
 }
 
@@ -264,4 +272,35 @@
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+
+/* kaufman */
+
+.kaufman {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 90px 0 90px 0;
+  background-color: #1f1f1f;
+  position: relative;
+}
+
+.kaufman__triangle {
+  width: 877px;
+  height: 877px;
+  background-image: url(/images/kaufman-triangle.svg);
+  background-size: contain;
+}
+
+.kaufman__triangle_place {
+  margin-right: -210px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.section-title_theme_dark,
+.section-subtitle_theme_dark {
+  color: #fff;
 }
