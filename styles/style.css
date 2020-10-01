@@ -205,3 +205,63 @@
 .table__text_place_digits {
   margin-top: 20px;
 }
+
+
+/* feinman */
+
+.feinman {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 790px;
+  background-color: #f2f2f2;
+  position: relative;
+}
+
+.feinman__title {
+  margin: 0;
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+  text-align: center;
+  z-index: 1;
+}
+
+.feinman__title_place_feinman{
+  margin: 100px 0 70px 0;
+}
+
+.feinman__subtitle {
+  margin: 0;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: 400;
+  z-index: 1;
+}
+
+.feinman__link {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: 400;
+  text-decoration: none;
+  z-index: 1;
+}
+
+.feinman__link_place_feinman {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+}
+
+.feinman__img {
+  display: block;
+  max-width: 100%;
+  width: 867px;
+}
+
+.feinman__img_place_feinman {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
