@@ -149,7 +149,6 @@
 }
 
 .section-title {
-  margin: 0 auto;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -157,12 +156,11 @@
   text-align: center;
 }
 
-.section-title_margins {
+.section-title_margin_bottom {
   margin-bottom: 20;
 }
 
 .section-subtitle {
-  margin: 0 auto;
   width: 60%;
   line-height: 34px;
   font-size: 24px;
@@ -175,9 +173,11 @@
   justify-content: space-between;
   flex-wrap: wrap;
   width: 1100px;
+  border: 1px solid red;
 }
 
 .table_place {
+  margin: 0 auto;
   z-index: 1;
 }
 
@@ -281,6 +281,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow: hidden;
   padding: 90px 0 90px 0;
   background-color: #1f1f1f;
   position: relative;
@@ -290,7 +291,7 @@
   width: 877px;
   height: 877px;
   background-image: url(/images/kaufman-triangle.svg);
-  background-size: contain;
+  /*background-size: contain;*/
 }
 
 .kaufman__triangle_place {
@@ -303,4 +304,96 @@
 .section-title_theme_dark,
 .section-subtitle_theme_dark {
   color: #fff;
+}
+
+
+/* footer */
+
+.footer {
+  padding: 60px 0 40px;
+  min-height: 350px;
+  color: #fff;
+  background-color: #1f1f1f;
+  border: 1px solid red;
+}
+
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  flex-basis: 711px;
+  height: 350px;
+  border: 1px solid red;
+}
+
+.footer__columns_margin_center {
+  margin: 0 auto;
+}
+
+.footer__column {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: 1px solid red;
+
+}
+
+.footer__column_content_copyright {
+  justify-content: space-between;
+  border: 1px solid red;
+}
+
+.footer__author {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.footer__author_margin_top_bottom {
+  margin: 18px 0;
+  border: 1px solid red;
+}
+
+.footer__column-links {
+  margin: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.footer__column-links_margin_top-bottom {
+  margin: 20px 0 16px;
+}
+
+.footer__column-item {
+  display: flex;
+  border: 1px solid red;
+}
+
+.footer__column-link {
+  display: flex;
+  align-items: center;
+  border: 1px solid red;
+}
+
+.footer__column-link_text_margin{
+  margin: 0;
+}
+
+.footer__social-icon {
+  align-self: center;
+  width: 16px;
+  height: 16px;
+  border: 1px solid red;
+}
+
+.footer__social-icon_margin_right {
+  margin-right: 10px;
+}
+
+.footer__column-heading {
+  margin: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
 }
