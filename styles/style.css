@@ -173,7 +173,6 @@
   justify-content: space-between;
   flex-wrap: wrap;
   width: 1100px;
-  border: 1px solid red;
 }
 
 .table_place {
@@ -314,7 +313,6 @@
   min-height: 350px;
   color: #fff;
   background-color: #1f1f1f;
-  border: 1px solid red;
 }
 
 .footer__columns {
@@ -323,7 +321,6 @@
   width: 90%;
   flex-basis: 711px;
   height: 350px;
-  border: 1px solid red;
 }
 
 .footer__columns_margin_center {
@@ -334,13 +331,11 @@
   display: flex;
   flex-direction: column;
   height: 100%;
-  border: 1px solid red;
 
 }
 
 .footer__column_content_copyright {
   justify-content: space-between;
-  border: 1px solid red;
 }
 
 .footer__author {
@@ -351,32 +346,28 @@
 
 .footer__author_margin_top_bottom {
   margin: 18px 0;
-  border: 1px solid red;
 }
 
 .footer__column-links {
   margin: 0;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: 400;
+
 }
 
 .footer__column-links_margin_top-bottom {
   margin: 20px 0 16px;
 }
 
-.footer__column-item {
-  display: flex;
-  border: 1px solid red;
-}
-
 .footer__column-link {
   display: flex;
   align-items: center;
-  border: 1px solid red;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
 }
 
-.footer__column-link_text_margin{
+.footer__social-text_margin {
   margin: 0;
 }
 
@@ -384,7 +375,6 @@
   align-self: center;
   width: 16px;
   height: 16px;
-  border: 1px solid red;
 }
 
 .footer__social-icon_margin_right {
