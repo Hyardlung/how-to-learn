@@ -110,7 +110,7 @@
   margin: 0;
   width: 175px;
   line-height: 1.2;
-  font-size: 18;
+  font-size: 18px;
   font-weight: 400;
 }
 
@@ -157,7 +157,7 @@
 }
 
 .section-title_margin_bottom {
-  margin-bottom: 20;
+  margin-bottom: 20px;
 }
 
 .section-subtitle {
