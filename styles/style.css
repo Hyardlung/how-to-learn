@@ -43,7 +43,7 @@
   text-decoration: none;
 }
 
-.header__link_animation_hover:hover {
+.header__link:hover {
   color: tomato;
   text-decoration: underline;
   transition: 0.5s all;
@@ -55,15 +55,15 @@
   height: 32px;
 }
 
+.logo:hover {
+  transform: translate(3px, -3px);
+  transition: 0.5s all;
+}
+
 .logo_place_header {
   top: 30px;
   left: 64px;
   position: absolute;
-}
-
-.logo_animation_hover:hover {
-  transform: translate(3px, -3px);
-  transition: 0.5s all;
 }
 
 .header__square-pic {
@@ -237,7 +237,7 @@
   z-index: 1;
 }
 
-.feinman__link_animation_hover:hover {
+.feinman__link:hover {
   color: tomato;
   text-decoration: underline;
   transition: 0.5s all;
@@ -345,7 +345,7 @@
   text-decoration: none;
 }
 
-.footer__column-link_animation_hover:hover {
+.footer__column-link:hover {
   color: #2f80ed;
   transform: translateX(5px);
   transition: 0.5s all;
