@@ -142,12 +142,15 @@
 
 .section-title {
   margin: 0;
-  margin-bottom: 20px;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 700;
   text-align: center;
+}
+
+.digits__section-title {
+  margin-bottom: 20px;
 }
 
 .section-subtitle {
@@ -282,6 +285,9 @@
   z-index: 1;
 }
 
+.kaufman__section-title {
+  margin-bottom: 20px;
+}
 
 /* footer */
 
