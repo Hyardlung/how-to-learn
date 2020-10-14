@@ -28,8 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,12 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hyardlung\web_dev\yandex.praktikum\dev\how-to-learn" />
+      <recent name="C:\Users\hyardlung\web_dev\yandex.praktikum\dev\how-to-learn\styles\vendor" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/how-to-learn/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -80,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602603446606</updated>
       <workItem from="1602603447681" duration="702000" />
-      <workItem from="1602679777049" duration="12416000" />
+      <workItem from="1602679777049" duration="13181000" />
     </task>
     <servers />
   </component>
