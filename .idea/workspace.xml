@@ -26,12 +26,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="">
+    <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-item/footer__column-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__heading/_theme/table__heading_theme_dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/_theme/table_theme_dark.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +95,17 @@
       <updated>1602603446606</updated>
       <workItem from="1602603447681" duration="702000" />
       <workItem from="1602679777049" duration="14314000" />
-      <workItem from="1602718077264" duration="3099000" />
+      <workItem from="1602718077264" duration="4256000" />
+      <workItem from="1602770797980" duration="6868000" />
     </task>
+    <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
+      <created>1602769583133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602769583133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,13 +136,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="66" y="57" width="1733" height="853" key="DiffContextDialog" timestamp="1602769211872">
+    <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602774037893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="66" y="57" width="1733" height="853" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602769211872" />
+    <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602774037893" />
+    <state x="66" y="57" width="1733" height="853" key="DiffContextDialog" timestamp="1602769663590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="57" width="1733" height="853" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602769663590" />
     <state x="817" y="286" key="FileChooserDialogImpl" timestamp="1602682271346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -140,6 +160,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602767736613" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602769629157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602769629157" />
+    <state x="736" y="365" key="cloudConfig.PluginsDialog" timestamp="1602770988021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="365" key="cloudConfig.PluginsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602770988021" />
     <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602766690584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
