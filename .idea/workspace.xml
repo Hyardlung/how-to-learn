@@ -28,6 +28,10 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -85,6 +89,7 @@
       <updated>1602603446606</updated>
       <workItem from="1602603447681" duration="702000" />
       <workItem from="1602679777049" duration="14314000" />
+      <workItem from="1602718077264" duration="3099000" />
     </task>
     <servers />
   </component>
@@ -115,15 +120,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="66" y="57" width="1733" height="853" key="DiffContextDialog" timestamp="1602769211872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="57" width="1733" height="853" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602769211872" />
     <state x="817" y="286" key="FileChooserDialogImpl" timestamp="1602682271346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="817" y="286" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602682271346" />
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602682468501">
+    <state x="698" y="223" key="RollbackChangesDialog" timestamp="1602769201859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602682468501" />
+    <state x="698" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602769201859" />
+    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602767736613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602767736613" />
+    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602766690584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602766690584" />
     <state x="619" y="242" key="run.anything.popup" timestamp="1602691758790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
