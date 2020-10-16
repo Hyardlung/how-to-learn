@@ -26,18 +26,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
+    <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-item/footer__column-item.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_info.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/table/__heading/_theme/table__heading_theme_dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/table/_theme/table_theme_dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texts.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,10 @@
       <workItem from="1602603447681" duration="702000" />
       <workItem from="1602679777049" duration="14314000" />
       <workItem from="1602718077264" duration="4256000" />
-      <workItem from="1602770797980" duration="6868000" />
+      <workItem from="1602770797980" duration="7148000" />
+      <workItem from="1602851053093" duration="7074000" />
+      <workItem from="1602859524763" duration="1079000" />
+      <workItem from="1602860902186" duration="1060000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602769583133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
+      <created>1602786317201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602786317202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +142,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css" />
+    <MESSAGE value="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="553" y="179" width="812" height="727" key="#Intentions" timestamp="1602858707365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="179" width="812" height="727" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1602858707365" />
+    <state x="553" y="161" key="#Plugins" timestamp="1602856134875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1602856134875" />
     <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602774037893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -152,33 +166,97 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="817" y="286" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602682271346" />
+    <state width="1900" height="282" key="GridCell.Tab.0.bottom" timestamp="1602859506355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506355" />
+    <state width="1900" height="282" key="GridCell.Tab.0.center" timestamp="1602859506355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506355" />
+    <state width="1900" height="282" key="GridCell.Tab.0.left" timestamp="1602859506355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506355" />
+    <state width="1900" height="282" key="GridCell.Tab.0.right" timestamp="1602859506355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506355" />
+    <state width="1900" height="282" key="GridCell.Tab.1.bottom" timestamp="1602859506356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506356" />
+    <state width="1900" height="282" key="GridCell.Tab.1.center" timestamp="1602859506356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506356" />
+    <state width="1900" height="282" key="GridCell.Tab.1.left" timestamp="1602859506355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506355" />
+    <state width="1900" height="282" key="GridCell.Tab.1.right" timestamp="1602859506356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506356" />
+    <state width="1900" height="350" key="GridCell.Tab.2.bottom" timestamp="1602859506344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506344" />
+    <state width="1900" height="350" key="GridCell.Tab.2.center" timestamp="1602859506343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506343" />
+    <state width="1900" height="350" key="GridCell.Tab.2.left" timestamp="1602859506343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506343" />
+    <state width="1900" height="350" key="GridCell.Tab.2.right" timestamp="1602859506344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506344" />
+    <state width="1900" height="350" key="GridCell.Tab.3.bottom" timestamp="1602859506344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506344" />
+    <state width="1900" height="350" key="GridCell.Tab.3.center" timestamp="1602859506344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506344" />
+    <state width="1900" height="350" key="GridCell.Tab.3.left" timestamp="1602859506344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506344" />
+    <state width="1900" height="350" key="GridCell.Tab.3.right" timestamp="1602859506344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="350" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602859506344" />
     <state x="698" y="223" key="RollbackChangesDialog" timestamp="1602769201859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602769201859" />
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602767736613">
+    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602859645574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602767736613" />
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602769629157">
+    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602859645574" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602786337384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602769629157" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602786337384" />
     <state x="736" y="365" key="cloudConfig.PluginsDialog" timestamp="1602770988021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="365" key="cloudConfig.PluginsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602770988021" />
-    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602766690584">
+    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602851162123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602766690584" />
+    <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602851162123" />
     <state x="619" y="242" key="run.anything.popup" timestamp="1602691758790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602691758790" />
-    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1602690579190">
+    <state x="627" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602859230494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602690579190" />
+    <state x="627" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602859230494" />
   </component>
 </project>
