@@ -4,7 +4,6 @@
 }
 
 .header__link:hover {
-  color: tomato;
-  text-decoration: underline;
+  opacity: .6;
   transition: 0.5s all;
 }
