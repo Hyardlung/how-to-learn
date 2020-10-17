@@ -28,13 +28,52 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cards/__description/cards__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__description/cards__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/digits/digits.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/feinman/__image/feinman__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feinman/__image/feinman__image.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/feinman/__link/feinman__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feinman/__link/feinman__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__link/header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/feinman/__title/feinman__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feinman/__title/feinman__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/feinman/feinman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feinman/feinman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__columns/footer__columns.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__columns/footer__columns.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__social-icon/footer__social-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__social-icon/footer__social-icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__main-illustration/header__main-illustration.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__main-illustration/header__main-illustration.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__title/header__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__container/khan__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__container/khan__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/logo/logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/oakley/oakley.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/oakley/oakley.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/resources/__link/resources__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__link/resources__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/rotation.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__cell/_theme/table__cell_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/__main-text/two-columns__main-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__main-text/two-columns__main-text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/__paragraph/two-columns__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__paragraph/two-columns__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/__span-accent/two-columns__span-accent.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__span-accent/two-columns__span-accent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +102,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -97,7 +136,8 @@
       <workItem from="1602851053093" duration="7074000" />
       <workItem from="1602859524763" duration="1079000" />
       <workItem from="1602860902186" duration="1607000" />
-      <workItem from="1602862548894" duration="7238000" />
+      <workItem from="1602862548894" duration="11572000" />
+      <workItem from="1602915963614" duration="3241000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
@@ -149,6 +189,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="587" y="199" key="#Inspections" timestamp="1602912426509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="199" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1602912426509" />
     <state x="553" y="179" width="812" height="727" key="#Intentions" timestamp="1602858707365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,10 +285,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602769201859" />
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602906405148">
+    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602911579877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602906405148" />
+    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602911579877" />
     <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602908148368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -261,10 +305,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="778" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602851162123" />
-    <state x="619" y="242" key="run.anything.popup" timestamp="1602691758790">
+    <state x="620" y="243" key="run.anything.popup" timestamp="1602909942453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="619" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602691758790" />
+    <state x="620" y="243" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602909942453" />
     <state x="627" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602859230494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
