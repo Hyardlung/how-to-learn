@@ -28,11 +28,8 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/table/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
       <workItem from="1602860902186" duration="1607000" />
       <workItem from="1602862548894" duration="11572000" />
       <workItem from="1602915963614" duration="18595000" />
-      <workItem from="1603016981126" duration="2160000" />
+      <workItem from="1603016981126" duration="4061000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
@@ -192,6 +189,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add: paths to social media in footer" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="782" y="178" key="#Code_Folding" timestamp="1603020292110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="178" key="#Code_Folding/0.0.1920.1040@0.0.1920.1040" timestamp="1603020292110" />
     <state x="587" y="199" key="#Inspections" timestamp="1602912426509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
