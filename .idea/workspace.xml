@@ -28,9 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1602859524763" duration="1079000" />
       <workItem from="1602860902186" duration="1607000" />
       <workItem from="1602862548894" duration="11572000" />
-      <workItem from="1602915963614" duration="6400000" />
+      <workItem from="1602915963614" duration="11008000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
@@ -118,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602919695773</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: video block&#10;&#10;implemented inner wrapper for video via css grid">
+      <created>1602929541020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602929541020</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +171,8 @@
     <MESSAGE value="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css" />
     <MESSAGE value="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -" />
     <MESSAGE value="refact: comb the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="refact: comb the code" />
+    <MESSAGE value="fix: video block&#10;&#10;implemented inner wrapper for video via css grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: video block&#10;&#10;implemented inner wrapper for video via css grid" />
   </component>
   <component name="WindowStateProjectService">
     <state x="587" y="199" key="#Inspections" timestamp="1602912426509">
@@ -278,10 +283,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602911579877" />
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602919804047">
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602931890197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602919804047" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602931890197" />
     <state x="736" y="365" key="cloudConfig.PluginsDialog" timestamp="1602770988021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
