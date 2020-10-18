@@ -11,7 +11,7 @@
 * **@keyframes** и **animation** - для вращения фигур. Никакого JavaScript.
 * **Grid CSS** - для сеток в секциях *techniques* и *video*. Подобные сетки можно реализовать и через *Flexbox*, но на гридах оказалось проще и код по объёму меньше.
 
- ![Imgur](https://i.imgur.com/iB5uvre.gif)
+ ![Imgur](https://i.imgur.com/P0pmfhz.gif)
 * **BEM Nested** - файловая структура. Всё скрупулёзно разложено по папкам ручками. Ни автоматизации, ни сборщиков. Полный хэндмейд.
 
  ![Imgur](https://i.imgur.com/cmJXzlW.gif)
