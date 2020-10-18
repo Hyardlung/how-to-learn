@@ -2,9 +2,9 @@
   width: 183px;
   height: 32px;
   display: block;
+  transition: .5s all;
 }
 
 .logo:hover {
   opacity: .6;
-  transition: .5s all;
 }

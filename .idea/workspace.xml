@@ -28,10 +28,8 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/rotation/__clockwise/rotation__clockwise.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/__clockwise/kaufman__clockwise.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__link/header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logo/logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -99,7 +97,8 @@
       <workItem from="1602859524763" duration="1079000" />
       <workItem from="1602860902186" duration="1607000" />
       <workItem from="1602862548894" duration="11572000" />
-      <workItem from="1602915963614" duration="12033000" />
+      <workItem from="1602915963614" duration="18595000" />
+      <workItem from="1603016981126" duration="964000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
@@ -222,10 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="817" y="286" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602906528609" />
-    <state width="314" height="182" key="Git.Branch.Popup" timestamp="1602919709084">
+    <state width="316" height="184" key="Git.Branch.Popup" timestamp="1603010293805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="314" height="182" key="Git.Branch.Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602919709084" />
+    <state width="316" height="184" key="Git.Branch.Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603010293805" />
     <state width="1900" height="350" key="GridCell.Tab.0.bottom" timestamp="1602909262444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -294,10 +293,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602921181530" />
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor" timestamp="1602911579877">
+    <state x="193" y="175" width="1597" height="815" key="SettingsEditor" timestamp="1603017030461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="359" y="126" width="1351" height="836" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602911579877" />
+    <state x="193" y="175" width="1597" height="815" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603017030461" />
+    <state x="684" y="263" width="540" height="524" key="StructurePopup" timestamp="1603016617610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="263" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1603016617610" />
     <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602996677434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
