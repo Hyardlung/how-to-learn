@@ -28,7 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="752cd41f-0080-40f3-b2b7-8108cf02489b" name="Default Changelist" comment="feat: add khan block&#10;&#10;And also done:&#10; - removed empty files and directories, cleaned up imports behind them&#10; - added single quotes to urls in imports&#10; - fixed padding in techniques.css&#10; -">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cards/__image-inner/cards__image-inner.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__image-inner/cards__image-inner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,7 @@
       <workItem from="1602860902186" duration="1607000" />
       <workItem from="1602862548894" duration="11572000" />
       <workItem from="1602915963614" duration="18595000" />
-      <workItem from="1603016981126" duration="6480000" />
+      <workItem from="1603016981126" duration="7275000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
