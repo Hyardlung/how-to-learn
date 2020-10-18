@@ -8,7 +8,6 @@
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__square-pic/header__square-pic.css');
 @import url('../blocks/rotation/rotation.css');
-@import url('../blocks/header/__clockwise/header__clockwise.css');
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_place/logo_place_header.css');
@@ -81,7 +80,6 @@
 /* kaufman */
 @import url('../blocks/kaufman/kaufman.css');
 @import url('../blocks/kaufman/__triangle/kaufman__triangle.css');
-@import url('../blocks/kaufman/__clockwise/kaufman__clockwise.css');
 @import url('../blocks/kaufman/__section-title/kaufman__section-title.css');
 
 /* resources */

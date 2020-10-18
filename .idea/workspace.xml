@@ -98,7 +98,7 @@
       <workItem from="1602860902186" duration="1607000" />
       <workItem from="1602862548894" duration="11572000" />
       <workItem from="1602915963614" duration="18595000" />
-      <workItem from="1603016981126" duration="4061000" />
+      <workItem from="1603016981126" duration="4482000" />
     </task>
     <task id="LOCAL-00001" summary="fix: iframes in video block&#10;&#10;Also:&#10; - added padding-top to techniques.css&#10; - refactored paddings in video.css&#10; - fixed margins in video__iframes.css">
       <created>1602769583133</created>
